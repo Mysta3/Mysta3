@@ -17,7 +17,7 @@ I have worked for a combined eight years in various industries such as; Educatio
 * 🤝  I'm open to collaborating on anything JavaScript related
 * ⚡  Forever a Student
 
-<a href="https://daily-dev-tips.com/"><img src="https://github.com/mysta3/mysta3/blob/main/devcard.svg" width="400" alt="Myshawne Stallings's Dev Card"/></a>
+<a href="https://app.daily-dev-tips.com/mysta3"><img src="https://github.com/mysta3/mysta3/blob/main/devcard.svg" width="400" alt="Myshawne Stallings's Dev Card"/></a>
 
 ### Skills
 
