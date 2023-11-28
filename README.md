@@ -7,15 +7,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I have worked for a combined eight years in various industries such as; Education, Agricultural, and Software Development, where I have held titles such as Desktop Support Technician, Associate Webmaster, and Software Engineer. Currently a Software Engineer that works to enhance internal tools to better support Customer Success teams while contributing to experimentation-led feature projects. Currently, my interests revolve around web application security, feature development, and global impact.
+I have worked for a combined eight years in various industries such as; Education, agriculture, and Software Development, where I have held titles such as Desktop Support Technician, Associate Webmaster, and Software Engineer. Currently a Software Engineer that works to enhance internal tools to better support Customer Success teams while contributing to experimentation-led feature projects. Currently, my interests revolve around web application security, feature development, and global impact.
 
 * 🌍  I'm based in Southern California
 * 🖥️  See my portfolio at [My Portfolio](http://myshawnestallings.netlify.app/)
 * ✉️  You can contact me at [myshawnestallings@gmail.com](mailto:myshawnestallings@gmail.com)
-* 🚀  I'm currently working on [React Project Based E-Commerce App](http://github.com/Mysta3/crwn-clothing)
-* 🧠  I'm learning React with Redux
-* 🤝  I'm open to collaborating on anything JavaScript related
-* ⚡  Forever a Student
+* 🚀  I'm currently working on the Foundations of Cybersecurity
+* 🧠  I'm studying for my CompTIA Sec+ exam
+* 🤝  I'm open to collaborating on any JavaScript and or Ruby-related projects but also love to experiment with new languages.
+* ⚡  Forever a Student Always learning.
 
 <a href="https://app.daily.dev/mysta3"><img src="https://github.com/mysta3/mysta3/blob/main/devcard.svg" width="400" alt="Myshawne Stallings's Dev Card"/></a>
 
