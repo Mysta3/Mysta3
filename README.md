@@ -11,11 +11,12 @@ I have worked for a combined eight years in various industries such as; Educatio
 
 * 🌍  I'm based in Southern California
 * 🖥️  See my portfolio at [My Portfolio](http://myshawnestallings.netlify.app/)
+* 📝  Read my latest articles at [Medium](https://medium.com/@mstallings.dev)
 * ✉️  You can contact me at [myshawnestallings@gmail.com](mailto:myshawnestallings@gmail.com)
-* 🚀  I'm currently working on the Foundations of Cybersecurity
-* 🧠  I'm studying for my CompTIA Sec+ exam
-* 🤝  I'm open to collaborating on any JavaScript and or Ruby-related projects but also love to experiment with new languages.
-* ⚡  Forever a Student Always learning.
+* 🚀  I'm currently working on the CyberSecurity 101 TryHackMe Path.
+* 🧠  I'm studying for my Microsoft Azure Fundamentals Certiffication
+* 🤝  I'm open to collaborating on any JavaScript and or Ruby-related projects but also love to experiment with new languages especially if it deals with IaC or internal tooling.
+* ⚡  Forever a Student, Always learning.
 
 <a href="https://app.daily.dev/mysta3"><img src="https://github.com/mysta3/mysta3/blob/main/devcard.svg" width="400" alt="Myshawne Stallings's Dev Card"/></a>
 
