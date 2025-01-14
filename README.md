@@ -4,10 +4,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Myshawne Stallings
 ==========================================================================================================================================
 
-Software Engineer
+Aspiring Security Engineer
 -----------------
 
-I have worked for a combined eight years in various industries such as; Education, agriculture, and Software Development, where I have held titles such as Desktop Support Technician, Associate Webmaster, and Software Engineer. Currently a Software Engineer that works to enhance internal tools to better support Customer Success teams while contributing to experimentation-led feature projects. Currently, my interests revolve around web application security, feature development, and global impact.
+Accomplished IT professional with 10 years of combined experience with a background in IT Support & Software Development. My new focus has me focusing on the security side of things. Throughout my career I have dabbled in security focused projects such as configuring and establishing a Patch Management System to creating a Hardening policy for workstations both domestically and internationally. Currently, my interests revolve around Web Application, Network and Cloud security. I recently completed my Foundations in Ethical Hacking class provided by Udacity. I enjoy being apart of communities where knowledge can exchanged! If you want to work on something let me know, I am always open to collaboration! 
 
 * 🌍  I'm based in Southern California
 * 🖥️  See my portfolio at [My Portfolio](http://myshawnestallings.netlify.app/)
@@ -15,7 +15,7 @@ I have worked for a combined eight years in various industries such as; Educatio
 * ✉️  You can contact me at [myshawnestallings@gmail.com](mailto:myshawnestallings@gmail.com)
 * 🚀  I'm currently working on the CyberSecurity 101 TryHackMe Path.
 * 🧠  I'm studying for my Microsoft Azure Fundamentals Certiffication
-* 🤝  I'm open to collaborating on any JavaScript and or Ruby-related projects but also love to experiment with new languages especially if it deals with IaC or internal tooling.
+* 🤝  I'm open to collaborating on any Python, JavaScript and or Ruby-related projects but also love to experiment with new languages especially if it deals with IaC or internal tooling.
 * ⚡  Forever a Student, Always learning.
 
 <a href="https://app.daily.dev/mysta3"><img src="https://github.com/mysta3/mysta3/blob/main/devcard.svg" width="400" alt="Myshawne Stallings's Dev Card"/></a>
